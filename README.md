@@ -9,7 +9,7 @@
 
 # Description:
 
-The SmartCreator101.sol file is a smart contract that generates tokens according to the ERC20 standard.
+The **SmartCreator101.sol** file is a smart contract that generates tokens according to the ERC20 standard.
 
 The SmartCreator102.sol file is another smart contract that, in addition to generating ERC20 tokens, stores all transaction details and member account details.
 
